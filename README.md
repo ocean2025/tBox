@@ -1,4 +1,4 @@
-#自用在线源订阅地址：https://ghp.ci/raw.githubusercontent.com/ocean20225/tBox/refs/heads/main/安卓配置.json
+#自用在线源订阅地址：https://ghp.ci/raw.githubusercontent.com/ocean2025/tBox/refs/heads/main/安卓配置.json
 
 ## 温馨提示
 夸克网盘需要最低88会员观看、UC网盘+天翼云盘无需会员。由于网盘自身限制，夸克+UC切换剧集时建议间隔最少10秒。
