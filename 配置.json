@@ -329,6 +329,21 @@
       "keepPlayFileKeywords": ""
     },
     {
+      "key": "jcyjcy",
+      "name": "囧次元(直链)",
+      "type": 5,
+      "searchable": 1,
+      "filterClass": "",
+      "firstClass": "",
+      "filterPlay": "",
+      "firstPlay": "",
+      "ext": "https://ghp.ci/raw.githubusercontent.com/ocean2025/tBox/refs/heads/main/js/jcy.js",
+      "flagable": 0,
+      "filterPlayFileKeywords": "",
+      "keepPlayFileKeywords": "",
+      "selectedPlayer": "0"
+    },
+    {
       "key": "ntdm9",
       "name": "NT动漫(嗅探)",
       "type": 4,
