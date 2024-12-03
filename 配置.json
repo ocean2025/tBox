@@ -31,6 +31,21 @@
       "selectedPlayer": "0"
     },
     {
+      "key": "zhuifan",
+      "name": "追饭影视(直链)",
+      "type": 5,
+      "searchable": 1,
+      "filterClass": "",
+      "firstClass": "",
+      "filterPlay": "",
+      "firstPlay": "SVIP4K专线2160P",
+      "ext": "https://ghp.ci/raw.githubusercontent.com/ocean2025/tBox/refs/heads/main/js/zhuifan.js",
+      "flagable": 0,
+      "filterPlayFileKeywords": "",
+      "keepPlayFileKeywords": "",
+      "selectedPlayer": "0"
+    },
+    {
       "key": "xiaopingguo",
       "name": "小苹果(1.0.6版)",
       "type": 5,
@@ -115,6 +130,20 @@
       "filterPlay": "",
       "firstPlay": "",
       "ext": "https://ghp.ci/raw.githubusercontent.com/ocean2025/tBox/refs/heads/main/soup/zhenbuka_soup.json",
+      "flagable": 0,
+      "filterPlayFileKeywords": "",
+      "keepPlayFileKeywords": ""
+    },
+    {
+      "key": "zxzja",
+      "name": "在线之家(嗅探)",
+      "type": 6,
+      "searchable": 1,
+      "filterClass": "",
+      "firstClass": "",
+      "filterPlay": "百度网盘,迅雷云盘,夸克网盘",
+      "firstPlay": "",
+      "ext": "https://ghp.ci/raw.githubusercontent.com/ocean2025/tBox/refs/heads/main/soup/zxzja_soup.json",
       "flagable": 0,
       "filterPlayFileKeywords": "",
       "keepPlayFileKeywords": ""
@@ -440,6 +469,20 @@
       "firstPlay": "qq,youku,imgo,qiyi,bilibili1",
       "ext": "https://ghp.ci/raw.githubusercontent.com/ocean2025/tBox/refs/heads/main/js/360.js",
       "flagable": 1,
+      "filterPlayFileKeywords": "",
+      "keepPlayFileKeywords": ""
+    },
+    {
+      "key": "ruyizy",
+      "name": "如意资源",
+      "type": 0,
+      "searchable": 1,
+      "filterClass": "电影片,连续剧,综艺片,动漫片,伦理片,预告片",
+      "firstClass": "国产剧,香港剧,韩国剧,欧美剧,日本剧,台湾剧,国产动漫,日韩动漫,大陆综艺,港台综艺,日韩综艺,欧美综艺",
+      "filterPlay": "",
+      "firstPlay": "",
+      "ext": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/",
+      "flagable": 0,
       "filterPlayFileKeywords": "",
       "keepPlayFileKeywords": ""
     },
